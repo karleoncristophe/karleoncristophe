@@ -2,7 +2,7 @@
 
 - 🔭 I'm studying React JS, JavaScript and Node Js
 
-  <div width="100%" align="center" display="flex">
+  <div width="100%">
   <a href="https://github.com/karleoncristophe">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=karleoncristophe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleoncristophe&layout=compact&langs_count=16&theme=radical"/>
