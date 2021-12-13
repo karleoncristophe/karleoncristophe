@@ -1,6 +1,11 @@
 ## Hi! I am Karleon Cristophe
 
-- 🔭 I'm studying React JS, JavaScript and Node Js
+-   Atualmente estudando/trabalhando com Mobile, Frontend e Backend. Amo
+            aprender novas tecnologias e enfrentar novos desafios na
+            programação. Iniciei a carreira visando desenvolvimento de jogos,
+            que é algo que gosto muito, mas com o decorrer do tempo me apaixonei
+            por desenvolvimento Web e Mobile. Estudo/Trabalho com ReactJS, React
+            Native e NodeJS.
 
   ##
   
