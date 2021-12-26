@@ -1,6 +1,10 @@
 ## Hi! I am Karleon Cristophe
 
--     Atualmente estudando/trabalhando com Frontend e Backend. Amo aprender novas tecnologias e enfrentar novos desafios na programação. Iniciei minha carreira como programador visando desenvolvimento de jogos, que é algo que gosto muito, mas com o decorrer do tempo me apaixonei por desenvolvimento Web. Estudo/Trabalho com ReactJS e NodeJS.
+-     Atualmente estudando/trabalhando com Frontend e Backend. 
+      Amo aprender novas tecnologias e enfrentar novos desafios na programação.
+      Iniciei minha carreira como programador visando desenvolvimento de jogos,
+      que é algo que gosto muito, mas com o decorrer do tempo me apaixonei por desenvolvimento Web.
+      Estudo/Trabalho com ReactJS e NodeJS.
 
   ##
   
