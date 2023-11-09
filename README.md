@@ -21,6 +21,7 @@ Atualmente estudando/trabalhando com Frontend, Backend e Mobile. Amo aprender no
    <img  alt="Karleon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img  alt="Karleon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img alt="Karleon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img alt="Karleon-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img  alt="Karleon-React"  height="40" width="40" src='https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png'>
    <img align="right" height="150" width="140" alt="Karleon" src="https://www.bluebus.com.br/wp-content/uploads/2015/05/giphy.gif">
 </div>  
