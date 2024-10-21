@@ -7,10 +7,6 @@ Atualmente, estou focado em estudar e trabalhar nas áreas de Frontend, Backend 
       </p>
 </div>   
 
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karleoncristophe&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karleoncristophe&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
