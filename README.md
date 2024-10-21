@@ -1,40 +1,32 @@
+
 # Olá! Eu sou o Karleon Cristophe
 
   <div width="100%">
       <p>
-Atualmente estudando/trabalhando com Frontend, Backend e Mobile. Amo aprender novas tecnologias e enfrentar novos desafios na programação. Iniciei minha carreira como programador visando desenvolvimento de jogos, que é algo que gosto muito, mas com o decorrer do tempo me apaixonei por desenvolvimento Web e Mobile. Estudo/Trabalho com ReactJS, React-Native, NextJS, NestJS e NodeJS.
+Atualmente, estou focado em estudar e trabalhar nas áreas de Frontend, Backend e Mobile. Tenho uma paixão por aprender novas tecnologias e enfrentar desafios no mundo da programação. Minha jornada como programador começou com o desenvolvimento de jogos, algo pelo qual sempre tive grande interesse. No entanto, com o passar do tempo, me apaixonei pelo desenvolvimento Web e Mobile. Atualmente, trabalho e estudo com tecnologias como ReactJS, React Native, NextJS, NestJS e NodeJS.
       </p>
 </div>   
 
-  ##
-  <div width="100%">
-  <a href="https://github.com/karleoncristophe">
-    <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=karleoncristophe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karleoncristophe&layout=compact&langs_count=16&theme=radical"/>
-</div>
- 
- 
-  ##
- 
- <div style="display: inline_block"><br> 
-   <img alt="Karleon-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img  alt="Karleon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img  alt="Karleon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img alt="Karleon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img alt="Karleon-TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img  alt="Karleon-React"  height="40" width="40" src='https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png'>
-   <img align="right" height="150" width="140" alt="Karleon" src="https://www.bluebus.com.br/wp-content/uploads/2015/05/giphy.gif">
-</div>  
- 
-  ##
- 
-<div>   
-   <a href="https://www.karleoncristophe.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" target="_blank"  height="28em" ></a>
-  <a href="https://www.instagram.com/karleoncristophe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://t.me/karleoncristophe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-   <a href ="https://twitter.com/karleoncris"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/karleoncristophe/karleoncristophe/blob/output/github-contribution-grid-snake.svg) 
-</div>
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
 
   
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karleoncristophe&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karleoncristophe&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,github,linux,postman,styledcomponents,vercel,vite,mongodb,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=karleoncristophe&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
