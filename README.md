@@ -3,7 +3,7 @@
 
   <div width="100%">
       <p>
-Atualmente, estou focado em estudar e trabalhar nas áreas de Frontend, Backend e Mobile. Tenho uma paixão por aprender novas tecnologias e enfrentar desafios no mundo da programação. Minha jornada como programador começou com o desenvolvimento de jogos, algo pelo qual sempre tive grande interesse. No entanto, com o passar do tempo, me apaixonei pelo desenvolvimento Web e Mobile. Atualmente, trabalho e estudo com tecnologias como ReactJS, React Native, NextJS, NestJS e NodeJS.
+> Desenvolvedor Full-Stack com sólida experiência em tecnologias modernas como React, Next.js, React Native, Node.js, NestJS e GraphQL. Atuo na criação de produtos web e mobile, integrando frontend e backend com foco em arquitetura, qualidade, performance e soluções escaláveis.
       </p>
 </div>   
 
